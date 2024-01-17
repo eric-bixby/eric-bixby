@@ -1,4 +1,4 @@
-### Hi there 👋
+🌱 I'm currently learning about chatGPT and copiolot for software development
 
 <!--
 **eric-bixby/eric-bixby** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
