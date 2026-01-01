@@ -1,4 +1,5 @@
-🌱 I'm currently learning about chatGPT and copiolot for software development
+- 🌱 I'm currently learning about using Large Language Model (LLM) for software development.
+- 🔭 I’m currently working on applying what I've learned about LLM to https://github.com/eric-bixby/auto-sort-bookmarks-webext.
 
 <!--
 **eric-bixby/eric-bixby** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
