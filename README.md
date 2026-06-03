@@ -1,4 +1,3 @@
-- 🌱 I'm currently learning about using Large Language Model (LLM) for software development.
 - 🔭 I’m currently working on applying what I've learned about LLM to https://github.com/eric-bixby/auto-sort-bookmarks-webext.
 
 <!--
